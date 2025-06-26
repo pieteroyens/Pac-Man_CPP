@@ -1,4 +1,12 @@
 # Pac-Man CPP
+## Build
+
+## Run
+
+## Technical Specs
+
+## Notes
+
 A C++ implementation of Pac-Man and is first project for learning C++. This project was made in a couple of days to get to grips with the language.
 
 There are a few critical things missing/lacking code-wise.
